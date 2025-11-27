@@ -16,18 +16,18 @@ Below are the screenshots of my workshop output.
 
 ### Desktop
 
-<div align="center">
+<div>
   <img src="./public/desktop.png" alt="Posts view" width="50%">
 </div>
 
 ### Tablet 
 
-<div align="center">
+<div>
   <img src="./public/tablet.png" alt="User view" width="50%">
 </div>
 
 ### Mobile
 
-<div align="center">
-  <img src="./public/mobile.png" alt="Profile view" width="50%">
+<div>
+  <img src="./public/mobile.png" alt="Profile view" width="30%">
 </div>
