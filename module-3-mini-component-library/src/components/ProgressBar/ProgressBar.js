@@ -6,6 +6,10 @@ import { COLORS } from "../../constants";
 import VisuallyHidden from "../VisuallyHidden";
 
 const SIZES = {
+  medium: {
+    "--padding": 0,
+    "--height": "12px",
+  },
   large: {
     "--padding": "4px",
     "--height": "24px",
